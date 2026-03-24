@@ -1,0 +1,21 @@
+CREATE TABLE housing_data (
+    Property_ID INT PRIMARY KEY,
+    Developer_Name VARCHAR(100),
+    Project_Name VARCHAR(100),
+    Micro_Market VARCHAR(100),
+    Configuration VARCHAR(50),
+    Unit_Size_Sqft INT,
+    Ticket_Price_Cr FLOAT,
+    Sales_Channel VARCHAR(50),
+    Buyer_Type VARCHAR(50),
+    Possession_Status VARCHAR(50),
+    Booking_Count INT,
+    Purchase_Quarter VARCHAR(20),
+    Quarter_Number INT,
+    Amenity_Score FLOAT,
+    Connectivity_Score FLOAT,
+    Locality_Infra_Score FLOAT,
+    Avg_Traffic_Time FLOAT,
+    NRI_Buyer VARCHAR(10),
+    Transaction_Type VARCHAR(50)
+);
