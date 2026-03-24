@@ -1,172 +1,304 @@
-\# Luxury Housing Market Analysis Dashboard
+# 🏡 Luxury Housing Market Analysis Project
 
+## 📌 Project Overview
 
+This is an end-to-end Data Analytics project that analyzes luxury housing market data in Bangalore. The project demonstrates the complete data pipeline including data cleaning, SQL database operations, and interactive dashboard development using Power BI.
 
-\## 📌 Project Overview
+---
 
-This project analyzes luxury housing market data to identify booking trends, builder performance, buyer preferences, and geographical demand.
+## 🎯 Objectives
 
+- Clean and preprocess raw housing dataset using Python  
+- Store structured data into SQL database  
+- Perform SQL validation and analysis queries  
+- Build an interactive Power BI dashboard  
+- Generate business insights for decision-making  
 
+---
 
-The project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI.
+## 🛠 Tools & Technologies Used
 
+- Python (Pandas, NumPy)
+- SQL (MySQL)
+- Power BI
+- GitHub
+- Data Visualization
+- Data Cleaning & Feature Engineering
 
+---
 
-\---
+## 📂 Project Files
 
+### 🐍 Python Scripts
 
+- `data_cleaning.py` — Cleans raw dataset
+- `mysql_import.py` — Loads cleaned data into SQL database
 
-\## 🛠 Tools Used
+---
 
+### 🗄 SQL Scripts
 
+- `table_schema.sql` — Table creation
+- `insert_queries.sql` — Data insertion
+- `analysis_queries.sql` — Business queries
 
-\- Python (Data Cleaning \& Data Preparation)
+---
 
-\- SQL (Database \& Validation Queries)
+### 📊 Power BI Dashboard
 
-\- Power BI (Dashboard Visualization)
+File:
+# 🏡 Luxury Housing Market Analysis Project
 
-\- CSV Dataset
+## 📌 Project Overview
 
+This is an end-to-end Data Analytics project that analyzes luxury housing market data in Bangalore. The project demonstrates the complete data pipeline including data cleaning, SQL database operations, and interactive dashboard development using Power BI.
 
+---
 
-\---
+## 🎯 Objectives
 
+- Clean and preprocess raw housing dataset using Python  
+- Store structured data into SQL database  
+- Perform SQL validation and analysis queries  
+- Build an interactive Power BI dashboard  
+- Generate business insights for decision-making  
 
+---
 
-\## 🔄 Project Pipeline
+## 🛠 Tools & Technologies Used
 
+- Python (Pandas, NumPy)
+- SQL (MySQL)
+- Power BI
+- GitHub
+- Data Visualization
+- Data Cleaning & Feature Engineering
 
+---
 
-1\. Data Collection
+## 📂 Project Files
 
-2\. Data Cleaning using Python
+### 🐍 Python Scripts
 
-3\. Feature Engineering
+- `data_cleaning.py` — Cleans raw dataset
+- `mysql_import.py` — Loads cleaned data into SQL database
 
-4\. Load Data into SQL Database
+---
 
-5\. Query Data using SQL
+### 🗄 SQL Scripts
 
-6\. Create Dashboard using Power BI
+- `table_schema.sql` — Table creation
+- `insert_queries.sql` — Data insertion
+- `analysis_queries.sql` — Business queries
 
-7\. Generate Business Insights
+---
 
+### 📊 Power BI Dashboard
 
+File:
+# 🏡 Luxury Housing Market Analysis Project
 
-\---
+## 📌 Project Overview
 
+This is an end-to-end Data Analytics project that analyzes luxury housing market data in Bangalore. The project demonstrates the complete data pipeline including data cleaning, SQL database operations, and interactive dashboard development using Power BI.
 
+---
 
-\## 📊 Dashboard Features
+## 🎯 Objectives
 
+- Clean and preprocess raw housing dataset using Python  
+- Store structured data into SQL database  
+- Perform SQL validation and analysis queries  
+- Build an interactive Power BI dashboard  
+- Generate business insights for decision-making  
 
+---
 
-The Power BI dashboard includes:
+## 🛠 Tools & Technologies Used
 
+- Python (Pandas, NumPy)
+- SQL (MySQL)
+- Power BI
+- GitHub
+- Data Visualization
+- Data Cleaning & Feature Engineering
 
+---
 
-\- Booking Conversion Analysis
+## 📂 Project Files
 
-\- Configuration Demand Analysis
+### 🐍 Python Scripts
 
-\- Sales Channel Efficiency
+- `data_cleaning.py` — Cleans raw dataset
+- `mysql_import.py` — Loads cleaned data into SQL database
 
-\- Quarterly Builder Contribution
+---
 
-\- Possession Status Analysis
+### 🗄 SQL Scripts
 
-\- Geographical Insights
+- `table_schema.sql` — Table creation
+- `insert_queries.sql` — Data insertion
+- `analysis_queries.sql` — Business queries
 
-\- Top Performers Dashboard
+---
 
+### 📊 Power BI Dashboard
 
+File:
+# 🏡 Luxury Housing Market Analysis Project
 
-\---
+## 📌 Project Overview
 
+This is an end-to-end Data Analytics project that analyzes luxury housing market data in Bangalore. The project demonstrates the complete data pipeline including data cleaning, SQL database operations, and interactive dashboard development using Power BI.
 
+---
 
-\## 📂 Project Structure
+## 🎯 Objectives
 
+- Clean and preprocess raw housing dataset using Python  
+- Store structured data into SQL database  
+- Perform SQL validation and analysis queries  
+- Build an interactive Power BI dashboard  
+- Generate business insights for decision-making  
 
+---
 
-Luxury-Housing-Project/
+## 🛠 Tools & Technologies Used
 
+- Python (Pandas, NumPy)
+- SQL (MySQL)
+- Power BI
+- GitHub
+- Data Visualization
+- Data Cleaning & Feature Engineering
 
+---
 
-Python/
+## 📂 Project Files
 
-\- data\_cleaning.py
+### 🐍 Python Scripts
 
-\- mysql\_import.py
+- `data_cleaning.py` — Cleans raw dataset
+- `mysql_import.py` — Loads cleaned data into SQL database
 
+---
 
+### 🗄 SQL Scripts
 
-SQL/
+- `table_schema.sql` — Table creation
+- `insert_queries.sql` — Data insertion
+- `analysis_queries.sql` — Business queries
 
-\- table\_schema.sql
+---
 
-\- insert\_queries.sql
+### 📊 Power BI Dashboard
 
-\- analysis\_queries.sql
+File:# 🏡 Luxury Housing Market Analysis Project
 
+## 📌 Project Overview
 
+This is an end-to-end Data Analytics project that analyzes luxury housing market data in Bangalore. The project demonstrates the complete data pipeline including data cleaning, SQL database operations, and interactive dashboard development using Power BI.
 
-PowerBI/
+---
 
-\- Luxury\_Housing\_Dashboard.pbix
+## 🎯 Objectives
 
+- Clean and preprocess raw housing dataset using Python  
+- Store structured data into SQL database  
+- Perform SQL validation and analysis queries  
+- Build an interactive Power BI dashboard  
+- Generate business insights for decision-making  
 
+---
 
-Dataset/
+## 🛠 Tools & Technologies Used
 
-\- cleaned\_luxury\_housing.csv
+- Python (Pandas, NumPy)
+- SQL (MySQL)
+- Power BI
+- GitHub
+- Data Visualization
+- Data Cleaning & Feature Engineering
 
+---
 
+## 📂 Project Files
 
-Presentation/
+### 🐍 Python Scripts
 
-\- Luxury Housing Market.pptx
+- `data_cleaning.py` — Cleans raw dataset
+- `mysql_import.py` — Loads cleaned data into SQL database
 
+---
 
+### 🗄 SQL Scripts
 
-Documentation/
+- `table_schema.sql` — Table creation
+- `insert_queries.sql` — Data insertion
+- `analysis_queries.sql` — Business queries
 
-\- Project\_Documentation.pdf
+---
 
+### 📊 Power BI Dashboard
 
+File:
+LUXURY HOUSING.pbix
 
-\---
+Dashboard Includes:
 
+- Total Revenue KPI
+- Total Bookings KPI
+- Top Builder Performance
+- Booking Status Analysis
+- Geographical Insights
 
+---
 
-\## 📈 Key Business Insights
+### 📁 Dataset
 
+- `Luxury_Housing_Bangalore.csv`
+- `cleaned_luxury_housing.csv`
 
+---
 
-\- 3BHK configurations showed the highest booking demand.
+### 📑 Documentation
 
-\- Certain builders generated significantly higher revenue.
+- `Project_Documentation.pdf`
 
-\- Ready-to-move projects attracted more buyers.
+Includes:
 
-\- High-demand micro-markets showed strong project concentration.
+- Pipeline Steps
+- Business Insights
+- SQL Query Results
+- Dashboard Explanation
 
-\- Sales channel performance varied across booking patterns.
+---
 
+## 📈 Key Business Insights
 
+- Prestige and L&T Realty generate the highest revenue among builders.
+- Majority of bookings fall under completed status.
+- Certain Bangalore areas show higher luxury housing demand.
+- Average ticket price varies significantly across developers.
+- Builders with strong connectivity and amenities attract higher bookings.
 
-\---
+---
 
+## 🚀 Project Workflow
 
+1. Data Collection  
+2. Data Cleaning using Python  
+3. Feature Engineering  
+4. Load Data into SQL  
+5. Run SQL Validation Queries  
+6. Create Power BI Dashboard  
+7. Generate Business Insights  
 
-\## 👩‍💻 Author
+---
 
+## 👩‍💻 Author
 
-
-\*\*Name:\*\* Ragini Boya  
-
-\*\*Course:\*\* Data Science – GUVI  
-
-\*\*Project Type:\*\* End-to-End Data Analytics Project
+**Name:** Ragini Boya  
+**Course:** Data Science — GUVI  
+**Project Type:** End-to-End Data Analytics Project
 
